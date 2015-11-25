@@ -6,7 +6,7 @@ The editor offers many configuration options, and as a website implementor, you 
 
 To help developers determine when to use the grid layout, we've outlined the 2 major use-cases below.
 
-##1. As a RTE Replacement
+##1. As an RTE Replacement
 The grid should primarily be used to replace content entry in a rich text editor (RTE). Where editors before would struggle with aligning images, lists and text or using tables inside the editor to layout content in columns. 
 
 The grid solves this scenario, giving editors predefined layouts and simple editors to enter content, not having to worry about how the content is rendered - since everything is stored in a very semantic format passing on that responsibility to the developer implementing the website.   
